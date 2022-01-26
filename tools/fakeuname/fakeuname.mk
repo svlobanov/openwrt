@@ -1,0 +1,1 @@
+FAKEUNAME_PATH=$(STAGING_DIR_HOST)/lib/fakeuname
